@@ -1,4 +1,4 @@
-﻿namespace Neo.UI
+﻿namespace Nee.UI
 {
     partial class AssetRegisterDialog
     {
